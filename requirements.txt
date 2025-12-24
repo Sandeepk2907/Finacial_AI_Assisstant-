@@ -1,0 +1,8 @@
+Flask
+transformers
+torch
+gTTS
+SpeechRecognition
+pydub
+deep-translator
+rapidfuzz
