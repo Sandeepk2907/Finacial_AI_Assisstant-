@@ -3,7 +3,7 @@ Financial AI Assistant
 Financial AI Assistant is a web-based application built using Flask, HTML, and CSS to help rural communities understand banking services and basic financial concepts in simple and easy language.
 The goal is to improve financial literacy and make financial information more accessible.
 
- Project Objective
+ Project Objective 
 
 To educate rural users about banking and financial terms
 
